@@ -1,0 +1,41 @@
+/* Jobs.css */
+
+.jobs-container {
+  margin-top: 20px;
+}
+
+.jobs-heading {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.job-card {
+  margin-bottom: 20px;
+}
+
+.job-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.job-company {
+  font-weight: bold;
+}
+
+.job-date {
+  color: gray;
+  font-size: 14px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
